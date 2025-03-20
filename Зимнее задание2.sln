@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35818.85 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Зимнее задание2", "Зимнее задание2\Зимнее задание2.csproj", "{AE9E9724-DFFC-481C-9F4D-D6E3E25BBD29}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinterAssignment", "Зимнее задание2\WinterAssignment.csproj", "{AE9E9724-DFFC-481C-9F4D-D6E3E25BBD29}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{24350522-A51C-44A0-9DA3-613CA94E931F}"
 EndProject
